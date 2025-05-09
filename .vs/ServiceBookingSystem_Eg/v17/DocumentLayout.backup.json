@@ -1,0 +1,641 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Thoon Moe Wathan\\OneDrive - KMD Institute\\L4DC Back up Disk D\\L4DC DDOOCP\\NAME_0000000_DDOOCP_GA\\Program\\ServiceBookingSystem_Eg\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6963C52B-ABDF-4F24-A3EE-EA5A8D2FA387}|ServiceBookingSystem_Eg.csproj|c:\\users\\thoon moe wathan\\onedrive - kmd institute\\l4dc back up disk d\\l4dc ddoocp\\name_0000000_ddoocp_ga\\program\\servicebookingsystem_eg\\frmmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6963C52B-ABDF-4F24-A3EE-EA5A8D2FA387}|ServiceBookingSystem_Eg.csproj|solutionrelative:frmmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6963C52B-ABDF-4F24-A3EE-EA5A8D2FA387}|ServiceBookingSystem_Eg.csproj|c:\\users\\thoon moe wathan\\onedrive - kmd institute\\l4dc back up disk d\\l4dc ddoocp\\name_0000000_ddoocp_ga\\program\\servicebookingsystem_eg\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6963C52B-ABDF-4F24-A3EE-EA5A8D2FA387}|ServiceBookingSystem_Eg.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6963C52B-ABDF-4F24-A3EE-EA5A8D2FA387}|ServiceBookingSystem_Eg.csproj|C:\\Users\\Thoon Moe Wathan\\OneDrive - KMD Institute\\L4DC Back up Disk D\\L4DC DDOOCP\\NAME_0000000_DDOOCP_GA\\Program\\ServiceBookingSystem_Eg\\FrmMain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6963C52B-ABDF-4F24-A3EE-EA5A8D2FA387}|ServiceBookingSystem_Eg.csproj|solutionrelative:FrmMain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6963C52B-ABDF-4F24-A3EE-EA5A8D2FA387}|ServiceBookingSystem_Eg.csproj|c:\\users\\thoon moe wathan\\onedrive - kmd institute\\l4dc back up disk d\\l4dc ddoocp\\name_0000000_ddoocp_ga\\program\\servicebookingsystem_eg\\frmservice.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6963C52B-ABDF-4F24-A3EE-EA5A8D2FA387}|ServiceBookingSystem_Eg.csproj|solutionrelative:frmservice.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6963C52B-ABDF-4F24-A3EE-EA5A8D2FA387}|ServiceBookingSystem_Eg.csproj|C:\\Users\\Thoon Moe Wathan\\OneDrive - KMD Institute\\L4DC Back up Disk D\\L4DC DDOOCP\\NAME_0000000_DDOOCP_GA\\Program\\ServiceBookingSystem_Eg\\DataSet1.xss||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6963C52B-ABDF-4F24-A3EE-EA5A8D2FA387}|ServiceBookingSystem_Eg.csproj|solutionrelative:DataSet1.xss||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6963C52B-ABDF-4F24-A3EE-EA5A8D2FA387}|ServiceBookingSystem_Eg.csproj|C:\\Users\\Thoon Moe Wathan\\OneDrive - KMD Institute\\L4DC Back up Disk D\\L4DC DDOOCP\\NAME_0000000_DDOOCP_GA\\Program\\ServiceBookingSystem_Eg\\FrmAdmin.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6963C52B-ABDF-4F24-A3EE-EA5A8D2FA387}|ServiceBookingSystem_Eg.csproj|solutionrelative:FrmAdmin.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6963C52B-ABDF-4F24-A3EE-EA5A8D2FA387}|ServiceBookingSystem_Eg.csproj|C:\\Users\\Thoon Moe Wathan\\OneDrive - KMD Institute\\L4DC Back up Disk D\\L4DC DDOOCP\\NAME_0000000_DDOOCP_GA\\Program\\ServiceBookingSystem_Eg\\DataSet1.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{6963C52B-ABDF-4F24-A3EE-EA5A8D2FA387}|ServiceBookingSystem_Eg.csproj|solutionrelative:DataSet1.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6963C52B-ABDF-4F24-A3EE-EA5A8D2FA387}|ServiceBookingSystem_Eg.csproj|C:\\Users\\Thoon Moe Wathan\\OneDrive - KMD Institute\\L4DC Back up Disk D\\L4DC DDOOCP\\NAME_0000000_DDOOCP_GA\\Program\\ServiceBookingSystem_Eg\\FrmAdmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6963C52B-ABDF-4F24-A3EE-EA5A8D2FA387}|ServiceBookingSystem_Eg.csproj|solutionrelative:FrmAdmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6963C52B-ABDF-4F24-A3EE-EA5A8D2FA387}|ServiceBookingSystem_Eg.csproj|C:\\Users\\Thoon Moe Wathan\\OneDrive - KMD Institute\\L4DC Back up Disk D\\L4DC DDOOCP\\NAME_0000000_DDOOCP_GA\\Program\\ServiceBookingSystem_Eg\\DataSet1.xsc||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6963C52B-ABDF-4F24-A3EE-EA5A8D2FA387}|ServiceBookingSystem_Eg.csproj|solutionrelative:DataSet1.xsc||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6963C52B-ABDF-4F24-A3EE-EA5A8D2FA387}|ServiceBookingSystem_Eg.csproj|C:\\Users\\Thoon Moe Wathan\\OneDrive - KMD Institute\\L4DC Back up Disk D\\L4DC DDOOCP\\NAME_0000000_DDOOCP_GA\\Program\\ServiceBookingSystem_Eg\\FrmBooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6963C52B-ABDF-4F24-A3EE-EA5A8D2FA387}|ServiceBookingSystem_Eg.csproj|solutionrelative:FrmBooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6963C52B-ABDF-4F24-A3EE-EA5A8D2FA387}|ServiceBookingSystem_Eg.csproj|C:\\Users\\Thoon Moe Wathan\\OneDrive - KMD Institute\\L4DC Back up Disk D\\L4DC DDOOCP\\NAME_0000000_DDOOCP_GA\\Program\\ServiceBookingSystem_Eg\\FrmCusViewBooking.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6963C52B-ABDF-4F24-A3EE-EA5A8D2FA387}|ServiceBookingSystem_Eg.csproj|solutionrelative:FrmCusViewBooking.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6963C52B-ABDF-4F24-A3EE-EA5A8D2FA387}|ServiceBookingSystem_Eg.csproj|C:\\Users\\Thoon Moe Wathan\\OneDrive - KMD Institute\\L4DC Back up Disk D\\L4DC DDOOCP\\NAME_0000000_DDOOCP_GA\\Program\\ServiceBookingSystem_Eg\\FrmCusViewBooking.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{6963C52B-ABDF-4F24-A3EE-EA5A8D2FA387}|ServiceBookingSystem_Eg.csproj|solutionrelative:FrmCusViewBooking.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6963C52B-ABDF-4F24-A3EE-EA5A8D2FA387}|ServiceBookingSystem_Eg.csproj|C:\\Users\\Thoon Moe Wathan\\OneDrive - KMD Institute\\L4DC Back up Disk D\\L4DC DDOOCP\\NAME_0000000_DDOOCP_GA\\Program\\ServiceBookingSystem_Eg\\FrmCusViewBooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6963C52B-ABDF-4F24-A3EE-EA5A8D2FA387}|ServiceBookingSystem_Eg.csproj|solutionrelative:FrmCusViewBooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6963C52B-ABDF-4F24-A3EE-EA5A8D2FA387}|ServiceBookingSystem_Eg.csproj|C:\\Users\\Thoon Moe Wathan\\OneDrive - KMD Institute\\L4DC Back up Disk D\\L4DC DDOOCP\\NAME_0000000_DDOOCP_GA\\Program\\ServiceBookingSystem_Eg\\FrmCustomerProfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6963C52B-ABDF-4F24-A3EE-EA5A8D2FA387}|ServiceBookingSystem_Eg.csproj|solutionrelative:FrmCustomerProfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6963C52B-ABDF-4F24-A3EE-EA5A8D2FA387}|ServiceBookingSystem_Eg.csproj|C:\\Users\\Thoon Moe Wathan\\OneDrive - KMD Institute\\L4DC Back up Disk D\\L4DC DDOOCP\\NAME_0000000_DDOOCP_GA\\Program\\ServiceBookingSystem_Eg\\FrmCustomersBooking_from_AdminView.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6963C52B-ABDF-4F24-A3EE-EA5A8D2FA387}|ServiceBookingSystem_Eg.csproj|solutionrelative:FrmCustomersBooking_from_AdminView.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6963C52B-ABDF-4F24-A3EE-EA5A8D2FA387}|ServiceBookingSystem_Eg.csproj|C:\\Users\\Thoon Moe Wathan\\OneDrive - KMD Institute\\L4DC Back up Disk D\\L4DC DDOOCP\\NAME_0000000_DDOOCP_GA\\Program\\ServiceBookingSystem_Eg\\FrmCustomerHomePage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6963C52B-ABDF-4F24-A3EE-EA5A8D2FA387}|ServiceBookingSystem_Eg.csproj|solutionrelative:FrmCustomerHomePage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6963C52B-ABDF-4F24-A3EE-EA5A8D2FA387}|ServiceBookingSystem_Eg.csproj|C:\\Users\\Thoon Moe Wathan\\OneDrive - KMD Institute\\L4DC Back up Disk D\\L4DC DDOOCP\\NAME_0000000_DDOOCP_GA\\Program\\ServiceBookingSystem_Eg\\FrmCustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6963C52B-ABDF-4F24-A3EE-EA5A8D2FA387}|ServiceBookingSystem_Eg.csproj|solutionrelative:FrmCustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6963C52B-ABDF-4F24-A3EE-EA5A8D2FA387}|ServiceBookingSystem_Eg.csproj|C:\\Users\\Thoon Moe Wathan\\OneDrive - KMD Institute\\L4DC Back up Disk D\\L4DC DDOOCP\\NAME_0000000_DDOOCP_GA\\Program\\ServiceBookingSystem_Eg\\FrmAdminLogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6963C52B-ABDF-4F24-A3EE-EA5A8D2FA387}|ServiceBookingSystem_Eg.csproj|solutionrelative:FrmAdminLogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6963C52B-ABDF-4F24-A3EE-EA5A8D2FA387}|ServiceBookingSystem_Eg.csproj|C:\\Users\\Thoon Moe Wathan\\OneDrive - KMD Institute\\L4DC Back up Disk D\\L4DC DDOOCP\\NAME_0000000_DDOOCP_GA\\Program\\ServiceBookingSystem_Eg\\FrmAdminHomePage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6963C52B-ABDF-4F24-A3EE-EA5A8D2FA387}|ServiceBookingSystem_Eg.csproj|solutionrelative:FrmAdminHomePage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6963C52B-ABDF-4F24-A3EE-EA5A8D2FA387}|ServiceBookingSystem_Eg.csproj|C:\\Users\\Thoon Moe Wathan\\OneDrive - KMD Institute\\L4DC Back up Disk D\\L4DC DDOOCP\\NAME_0000000_DDOOCP_GA\\Program\\ServiceBookingSystem_Eg\\clsAdmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6963C52B-ABDF-4F24-A3EE-EA5A8D2FA387}|ServiceBookingSystem_Eg.csproj|solutionrelative:clsAdmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6963C52B-ABDF-4F24-A3EE-EA5A8D2FA387}|ServiceBookingSystem_Eg.csproj|C:\\Users\\Thoon Moe Wathan\\OneDrive - KMD Institute\\L4DC Back up Disk D\\L4DC DDOOCP\\NAME_0000000_DDOOCP_GA\\Program\\ServiceBookingSystem_Eg\\clsServiceType.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6963C52B-ABDF-4F24-A3EE-EA5A8D2FA387}|ServiceBookingSystem_Eg.csproj|solutionrelative:clsServiceType.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6963C52B-ABDF-4F24-A3EE-EA5A8D2FA387}|ServiceBookingSystem_Eg.csproj|C:\\Users\\Thoon Moe Wathan\\OneDrive - KMD Institute\\L4DC Back up Disk D\\L4DC DDOOCP\\NAME_0000000_DDOOCP_GA\\Program\\ServiceBookingSystem_Eg\\clsService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6963C52B-ABDF-4F24-A3EE-EA5A8D2FA387}|ServiceBookingSystem_Eg.csproj|solutionrelative:clsService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6963C52B-ABDF-4F24-A3EE-EA5A8D2FA387}|ServiceBookingSystem_Eg.csproj|C:\\Users\\Thoon Moe Wathan\\OneDrive - KMD Institute\\L4DC Back up Disk D\\L4DC DDOOCP\\NAME_0000000_DDOOCP_GA\\Program\\ServiceBookingSystem_Eg\\clsCustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6963C52B-ABDF-4F24-A3EE-EA5A8D2FA387}|ServiceBookingSystem_Eg.csproj|solutionrelative:clsCustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6963C52B-ABDF-4F24-A3EE-EA5A8D2FA387}|ServiceBookingSystem_Eg.csproj|C:\\Users\\Thoon Moe Wathan\\OneDrive - KMD Institute\\L4DC Back up Disk D\\L4DC DDOOCP\\NAME_0000000_DDOOCP_GA\\Program\\ServiceBookingSystem_Eg\\FrmCustomerLogin.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6963C52B-ABDF-4F24-A3EE-EA5A8D2FA387}|ServiceBookingSystem_Eg.csproj|solutionrelative:FrmCustomerLogin.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6963C52B-ABDF-4F24-A3EE-EA5A8D2FA387}|ServiceBookingSystem_Eg.csproj|C:\\Users\\Thoon Moe Wathan\\OneDrive - KMD Institute\\L4DC Back up Disk D\\L4DC DDOOCP\\NAME_0000000_DDOOCP_GA\\Program\\ServiceBookingSystem_Eg\\FrmCustomerLogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6963C52B-ABDF-4F24-A3EE-EA5A8D2FA387}|ServiceBookingSystem_Eg.csproj|solutionrelative:FrmCustomerLogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6963C52B-ABDF-4F24-A3EE-EA5A8D2FA387}|ServiceBookingSystem_Eg.csproj|C:\\Users\\Thoon Moe Wathan\\OneDrive - KMD Institute\\L4DC Back up Disk D\\L4DC DDOOCP\\NAME_0000000_DDOOCP_GA\\Program\\ServiceBookingSystem_Eg\\FrmCustomersBooking_from_AdminView.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6963C52B-ABDF-4F24-A3EE-EA5A8D2FA387}|ServiceBookingSystem_Eg.csproj|solutionrelative:FrmCustomersBooking_from_AdminView.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6963C52B-ABDF-4F24-A3EE-EA5A8D2FA387}|ServiceBookingSystem_Eg.csproj|C:\\Users\\Thoon Moe Wathan\\OneDrive - KMD Institute\\L4DC Back up Disk D\\L4DC DDOOCP\\NAME_0000000_DDOOCP_GA\\Program\\ServiceBookingSystem_Eg\\FrmCusViewBooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6963C52B-ABDF-4F24-A3EE-EA5A8D2FA387}|ServiceBookingSystem_Eg.csproj|solutionrelative:FrmCusViewBooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6963C52B-ABDF-4F24-A3EE-EA5A8D2FA387}|ServiceBookingSystem_Eg.csproj|C:\\Users\\Thoon Moe Wathan\\OneDrive - KMD Institute\\L4DC Back up Disk D\\L4DC DDOOCP\\NAME_0000000_DDOOCP_GA\\Program\\ServiceBookingSystem_Eg\\frmbooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6963C52B-ABDF-4F24-A3EE-EA5A8D2FA387}|ServiceBookingSystem_Eg.csproj|solutionrelative:frmbooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6963C52B-ABDF-4F24-A3EE-EA5A8D2FA387}|ServiceBookingSystem_Eg.csproj|C:\\Users\\Thoon Moe Wathan\\OneDrive - KMD Institute\\L4DC Back up Disk D\\L4DC DDOOCP\\NAME_0000000_DDOOCP_GA\\Program\\ServiceBookingSystem_Eg\\frmadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6963C52B-ABDF-4F24-A3EE-EA5A8D2FA387}|ServiceBookingSystem_Eg.csproj|solutionrelative:frmadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6963C52B-ABDF-4F24-A3EE-EA5A8D2FA387}|ServiceBookingSystem_Eg.csproj|C:\\Users\\Thoon Moe Wathan\\OneDrive - KMD Institute\\L4DC Back up Disk D\\L4DC DDOOCP\\NAME_0000000_DDOOCP_GA\\Program\\ServiceBookingSystem_Eg\\frmservicetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6963C52B-ABDF-4F24-A3EE-EA5A8D2FA387}|ServiceBookingSystem_Eg.csproj|solutionrelative:frmservicetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6963C52B-ABDF-4F24-A3EE-EA5A8D2FA387}|ServiceBookingSystem_Eg.csproj|C:\\Users\\Thoon Moe Wathan\\OneDrive - KMD Institute\\L4DC Back up Disk D\\L4DC DDOOCP\\NAME_0000000_DDOOCP_GA\\Program\\ServiceBookingSystem_Eg\\frmcustomerhomepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6963C52B-ABDF-4F24-A3EE-EA5A8D2FA387}|ServiceBookingSystem_Eg.csproj|solutionrelative:frmcustomerhomepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6963C52B-ABDF-4F24-A3EE-EA5A8D2FA387}|ServiceBookingSystem_Eg.csproj|C:\\Users\\Thoon Moe Wathan\\OneDrive - KMD Institute\\L4DC Back up Disk D\\L4DC DDOOCP\\NAME_0000000_DDOOCP_GA\\Program\\ServiceBookingSystem_Eg\\frmcustomersbooking_from_adminview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6963C52B-ABDF-4F24-A3EE-EA5A8D2FA387}|ServiceBookingSystem_Eg.csproj|solutionrelative:frmcustomersbooking_from_adminview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6963C52B-ABDF-4F24-A3EE-EA5A8D2FA387}|ServiceBookingSystem_Eg.csproj|C:\\Users\\Thoon Moe Wathan\\OneDrive - KMD Institute\\L4DC Back up Disk D\\L4DC DDOOCP\\NAME_0000000_DDOOCP_GA\\Program\\ServiceBookingSystem_Eg\\frmadminhomepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6963C52B-ABDF-4F24-A3EE-EA5A8D2FA387}|ServiceBookingSystem_Eg.csproj|solutionrelative:frmadminhomepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6963C52B-ABDF-4F24-A3EE-EA5A8D2FA387}|ServiceBookingSystem_Eg.csproj|C:\\Users\\Thoon Moe Wathan\\OneDrive - KMD Institute\\L4DC Back up Disk D\\L4DC DDOOCP\\NAME_0000000_DDOOCP_GA\\Program\\ServiceBookingSystem_Eg\\frmcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6963C52B-ABDF-4F24-A3EE-EA5A8D2FA387}|ServiceBookingSystem_Eg.csproj|solutionrelative:frmcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6963C52B-ABDF-4F24-A3EE-EA5A8D2FA387}|ServiceBookingSystem_Eg.csproj|C:\\Users\\Thoon Moe Wathan\\OneDrive - KMD Institute\\L4DC Back up Disk D\\L4DC DDOOCP\\NAME_0000000_DDOOCP_GA\\Program\\ServiceBookingSystem_Eg\\frmadminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6963C52B-ABDF-4F24-A3EE-EA5A8D2FA387}|ServiceBookingSystem_Eg.csproj|solutionrelative:frmadminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6963C52B-ABDF-4F24-A3EE-EA5A8D2FA387}|ServiceBookingSystem_Eg.csproj|C:\\Users\\Thoon Moe Wathan\\OneDrive - KMD Institute\\L4DC Back up Disk D\\L4DC DDOOCP\\NAME_0000000_DDOOCP_GA\\Program\\ServiceBookingSystem_Eg\\frmcustomerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6963C52B-ABDF-4F24-A3EE-EA5A8D2FA387}|ServiceBookingSystem_Eg.csproj|solutionrelative:frmcustomerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6963C52B-ABDF-4F24-A3EE-EA5A8D2FA387}|ServiceBookingSystem_Eg.csproj|C:\\Users\\Thoon Moe Wathan\\OneDrive - KMD Institute\\L4DC Back up Disk D\\L4DC DDOOCP\\NAME_0000000_DDOOCP_GA\\Program\\ServiceBookingSystem_Eg\\frmcustomerlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6963C52B-ABDF-4F24-A3EE-EA5A8D2FA387}|ServiceBookingSystem_Eg.csproj|solutionrelative:frmcustomerlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmMain.cs",
+              "DocumentMoniker": "C:\\Users\\Thoon Moe Wathan\\OneDrive - KMD Institute\\L4DC Back up Disk D\\L4DC DDOOCP\\NAME_0000000_DDOOCP_GA\\Program\\ServiceBookingSystem_Eg\\FrmMain.cs",
+              "RelativeDocumentMoniker": "FrmMain.cs",
+              "ToolTip": "C:\\Users\\Thoon Moe Wathan\\OneDrive - KMD Institute\\L4DC Back up Disk D\\L4DC DDOOCP\\NAME_0000000_DDOOCP_GA\\Program\\ServiceBookingSystem_Eg\\FrmMain.cs",
+              "RelativeToolTip": "FrmMain.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAswCMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T16:08:57.971Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmMain.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Thoon Moe Wathan\\OneDrive - KMD Institute\\L4DC Back up Disk D\\L4DC DDOOCP\\NAME_0000000_DDOOCP_GA\\Program\\ServiceBookingSystem_Eg\\FrmMain.Designer.cs",
+              "RelativeDocumentMoniker": "FrmMain.Designer.cs",
+              "ToolTip": "C:\\Users\\Thoon Moe Wathan\\OneDrive - KMD Institute\\L4DC Back up Disk D\\L4DC DDOOCP\\NAME_0000000_DDOOCP_GA\\Program\\ServiceBookingSystem_Eg\\FrmMain.Designer.cs",
+              "RelativeToolTip": "FrmMain.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T07:29:21.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "app.config",
+              "DocumentMoniker": "C:\\Users\\Thoon Moe Wathan\\OneDrive - KMD Institute\\L4DC Back up Disk D\\L4DC DDOOCP\\NAME_0000000_DDOOCP_GA\\Program\\ServiceBookingSystem_Eg\\app.config",
+              "RelativeDocumentMoniker": "app.config",
+              "ToolTip": "C:\\Users\\Thoon Moe Wathan\\OneDrive - KMD Institute\\L4DC Back up Disk D\\L4DC DDOOCP\\NAME_0000000_DDOOCP_GA\\Program\\ServiceBookingSystem_Eg\\app.config",
+              "RelativeToolTip": "app.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-09T07:27:21.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataSet1.xss",
+              "DocumentMoniker": "C:\\Users\\Thoon Moe Wathan\\OneDrive - KMD Institute\\L4DC Back up Disk D\\L4DC DDOOCP\\NAME_0000000_DDOOCP_GA\\Program\\ServiceBookingSystem_Eg\\DataSet1.xss",
+              "RelativeDocumentMoniker": "DataSet1.xss",
+              "ToolTip": "C:\\Users\\Thoon Moe Wathan\\OneDrive - KMD Institute\\L4DC Back up Disk D\\L4DC DDOOCP\\NAME_0000000_DDOOCP_GA\\Program\\ServiceBookingSystem_Eg\\DataSet1.xss",
+              "RelativeToolTip": "DataSet1.xss",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAANwSURBVDhPhZRPSytnFMafyUwqDQnEqMSKmXpjx7RIQhO4WhRisd1F10VcGcldtCIY0H4BQbsRP4Gu3DQKVtzUTcCQYFSqjVjQufHepBFM7sTgzCRjJzOZLoppJqn2B\u002B/iPec5z3l5/wH/w\u002BTkJF0ul78vl8sxURRLoijWmsZ7URQ3Y7FYAJqmEc0GjYRCodHZ2dnvLBbLRDqd7jg\u002BPv64UChQjRq32/2X2\u002B0Wurq63nIc9/OzhqFQ6KOpqakfent7566url91dXYhn89DLIs6XbfdDoIgoKhKZXR09FrXrZFAIGD0eDy92Wz2VaFQgM/rg8vlapYBAP64vETmbdYE4EtDc/KJXC5XK5VKtWpVQbHIIZ8voFQqged53eA4Dh\u002B4D\u002BB5HgDw7AoXFxclnuerQ0NDiEajYK9ZuFyfw9pu1enev3uHdDpdj\u002Bv2cHx8/NtwOPzj09zpdPZbrda\u002BVCqFjY0NqKoKijI2lkCSKpAkCU6nE2tra/oVdnd3f\u002BLz\u002Bb7Z39\u002BHoijIZrOgaRoejwe1Wg339/eN8v\u002BkZQ8FQcDu7i4ikQgikQgSiUSz5EVaDA0GA2w2GyiKgslkgtlsbpa8SIuh3W7HysoKBgYGEAgEEAwGmyUvQgHA8vLyT/39/Z85HA6aJEnYbDYYjUaYTCZYLBbIsoz5\u002BXnIsoxEIoFoNKozIUkSRuM/h0UBgN/v/5ogiNcsy4JlWQBAPp9HKpWCpmn1wpGREdA0XZ8DQHt7O2iahtfrLQO4JADg8PAweXJy8joej7cUAEC1WgXLslhaWoIsyzg4OKjnenp6HgcHB\u002B9pmr7KZDIRymw2WwwGgwEAvF4vwuEwAKBSqVRIkiTb2traisViPT42Nga/369omiZJkqTVarUcgMPz8/NfJiYmfqVisVjS4XB8mkwm610BYGFhYW54ePirYDD4RpcAoGnabw8PD3MzMzPlTCYjA6g8Pj7yAEC5XK4vtra2tLOzM6iqis3NTUxPTyOXy/3JMMwAy7LY3t6GIAjY29uDoijo6OgQV1dXfz86OqoKgqBrZgCA09NT3N7e4u7uDslkEqqq1gUcxyEej0OWZVxcXODm5gaFQkHb2dlpMcOTocPhAMMwYBgGfX19IIh/n7jZbK7nGIZBZ2dnY30LFACEw\u002BFnP1qPx0Osr6/rYs33sJG/AYSnjqm2fnOXAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-05-09T06:26:29.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmAdmin.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Thoon Moe Wathan\\OneDrive - KMD Institute\\L4DC Back up Disk D\\L4DC DDOOCP\\NAME_0000000_DDOOCP_GA\\Program\\ServiceBookingSystem_Eg\\FrmAdmin.Designer.cs",
+              "RelativeDocumentMoniker": "FrmAdmin.Designer.cs",
+              "ToolTip": "C:\\Users\\Thoon Moe Wathan\\OneDrive - KMD Institute\\L4DC Back up Disk D\\L4DC DDOOCP\\NAME_0000000_DDOOCP_GA\\Program\\ServiceBookingSystem_Eg\\FrmAdmin.Designer.cs",
+              "RelativeToolTip": "FrmAdmin.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T06:23:55.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DataSet1.xsd",
+              "DocumentMoniker": "C:\\Users\\Thoon Moe Wathan\\OneDrive - KMD Institute\\L4DC Back up Disk D\\L4DC DDOOCP\\NAME_0000000_DDOOCP_GA\\Program\\ServiceBookingSystem_Eg\\DataSet1.xsd",
+              "RelativeDocumentMoniker": "DataSet1.xsd",
+              "ToolTip": "C:\\Users\\Thoon Moe Wathan\\OneDrive - KMD Institute\\L4DC Back up Disk D\\L4DC DDOOCP\\NAME_0000000_DDOOCP_GA\\Program\\ServiceBookingSystem_Eg\\DataSet1.xsd",
+              "RelativeToolTip": "DataSet1.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2025-05-07T16:08:57.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmAdmin.cs",
+              "DocumentMoniker": "C:\\Users\\Thoon Moe Wathan\\OneDrive - KMD Institute\\L4DC Back up Disk D\\L4DC DDOOCP\\NAME_0000000_DDOOCP_GA\\Program\\ServiceBookingSystem_Eg\\FrmAdmin.cs",
+              "RelativeDocumentMoniker": "FrmAdmin.cs",
+              "ToolTip": "C:\\Users\\Thoon Moe Wathan\\OneDrive - KMD Institute\\L4DC Back up Disk D\\L4DC DDOOCP\\NAME_0000000_DDOOCP_GA\\Program\\ServiceBookingSystem_Eg\\FrmAdmin.cs",
+              "RelativeToolTip": "FrmAdmin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T06:23:57.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DataSet1.xsc",
+              "DocumentMoniker": "C:\\Users\\Thoon Moe Wathan\\OneDrive - KMD Institute\\L4DC Back up Disk D\\L4DC DDOOCP\\NAME_0000000_DDOOCP_GA\\Program\\ServiceBookingSystem_Eg\\DataSet1.xsc",
+              "RelativeDocumentMoniker": "DataSet1.xsc",
+              "ToolTip": "C:\\Users\\Thoon Moe Wathan\\OneDrive - KMD Institute\\L4DC Back up Disk D\\L4DC DDOOCP\\NAME_0000000_DDOOCP_GA\\Program\\ServiceBookingSystem_Eg\\DataSet1.xsc",
+              "RelativeToolTip": "DataSet1.xsc",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001612|",
+              "WhenOpened": "2025-05-09T06:26:33.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmService.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Thoon Moe Wathan\\OneDrive - KMD Institute\\L4DC Back up Disk D\\L4DC DDOOCP\\NAME_0000000_DDOOCP_GA\\Program\\ServiceBookingSystem_Eg\\FrmService.Designer.cs",
+              "RelativeDocumentMoniker": "FrmService.Designer.cs",
+              "ToolTip": "C:\\Users\\Thoon Moe Wathan\\OneDrive - KMD Institute\\L4DC Back up Disk D\\L4DC DDOOCP\\NAME_0000000_DDOOCP_GA\\Program\\ServiceBookingSystem_Eg\\FrmService.Designer.cs",
+              "RelativeToolTip": "FrmService.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T06:59:46.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmBooking.cs",
+              "DocumentMoniker": "C:\\Users\\Thoon Moe Wathan\\OneDrive - KMD Institute\\L4DC Back up Disk D\\L4DC DDOOCP\\NAME_0000000_DDOOCP_GA\\Program\\ServiceBookingSystem_Eg\\FrmBooking.cs",
+              "RelativeDocumentMoniker": "FrmBooking.cs",
+              "ToolTip": "C:\\Users\\Thoon Moe Wathan\\OneDrive - KMD Institute\\L4DC Back up Disk D\\L4DC DDOOCP\\NAME_0000000_DDOOCP_GA\\Program\\ServiceBookingSystem_Eg\\FrmBooking.cs",
+              "RelativeToolTip": "FrmBooking.cs",
+              "ViewState": "AgIAAJ0AAAAAAAAAAADwv8IAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T16:09:01.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FrmCusViewBooking.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Thoon Moe Wathan\\OneDrive - KMD Institute\\L4DC Back up Disk D\\L4DC DDOOCP\\NAME_0000000_DDOOCP_GA\\Program\\ServiceBookingSystem_Eg\\FrmCusViewBooking.Designer.cs",
+              "RelativeDocumentMoniker": "FrmCusViewBooking.Designer.cs",
+              "ToolTip": "C:\\Users\\Thoon Moe Wathan\\OneDrive - KMD Institute\\L4DC Back up Disk D\\L4DC DDOOCP\\NAME_0000000_DDOOCP_GA\\Program\\ServiceBookingSystem_Eg\\FrmCusViewBooking.Designer.cs",
+              "RelativeToolTip": "FrmCusViewBooking.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T16:22:23.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FrmCusViewBooking.resx",
+              "DocumentMoniker": "C:\\Users\\Thoon Moe Wathan\\OneDrive - KMD Institute\\L4DC Back up Disk D\\L4DC DDOOCP\\NAME_0000000_DDOOCP_GA\\Program\\ServiceBookingSystem_Eg\\FrmCusViewBooking.resx",
+              "RelativeDocumentMoniker": "FrmCusViewBooking.resx",
+              "ToolTip": "C:\\Users\\Thoon Moe Wathan\\OneDrive - KMD Institute\\L4DC Back up Disk D\\L4DC DDOOCP\\NAME_0000000_DDOOCP_GA\\Program\\ServiceBookingSystem_Eg\\FrmCusViewBooking.resx",
+              "RelativeToolTip": "FrmCusViewBooking.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-05-07T16:22:25.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FrmCusViewBooking.cs",
+              "DocumentMoniker": "C:\\Users\\Thoon Moe Wathan\\OneDrive - KMD Institute\\L4DC Back up Disk D\\L4DC DDOOCP\\NAME_0000000_DDOOCP_GA\\Program\\ServiceBookingSystem_Eg\\FrmCusViewBooking.cs",
+              "RelativeDocumentMoniker": "FrmCusViewBooking.cs",
+              "ToolTip": "C:\\Users\\Thoon Moe Wathan\\OneDrive - KMD Institute\\L4DC Back up Disk D\\L4DC DDOOCP\\NAME_0000000_DDOOCP_GA\\Program\\ServiceBookingSystem_Eg\\FrmCusViewBooking.cs",
+              "RelativeToolTip": "FrmCusViewBooking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T16:09:01.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FrmCustomerProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Thoon Moe Wathan\\OneDrive - KMD Institute\\L4DC Back up Disk D\\L4DC DDOOCP\\NAME_0000000_DDOOCP_GA\\Program\\ServiceBookingSystem_Eg\\FrmCustomerProfile.cs",
+              "RelativeDocumentMoniker": "FrmCustomerProfile.cs",
+              "ToolTip": "C:\\Users\\Thoon Moe Wathan\\OneDrive - KMD Institute\\L4DC Back up Disk D\\L4DC DDOOCP\\NAME_0000000_DDOOCP_GA\\Program\\ServiceBookingSystem_Eg\\FrmCustomerProfile.cs",
+              "RelativeToolTip": "FrmCustomerProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T16:09:01.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FrmCustomersBooking_from_AdminView.cs",
+              "DocumentMoniker": "C:\\Users\\Thoon Moe Wathan\\OneDrive - KMD Institute\\L4DC Back up Disk D\\L4DC DDOOCP\\NAME_0000000_DDOOCP_GA\\Program\\ServiceBookingSystem_Eg\\FrmCustomersBooking_from_AdminView.cs",
+              "RelativeDocumentMoniker": "FrmCustomersBooking_from_AdminView.cs",
+              "ToolTip": "C:\\Users\\Thoon Moe Wathan\\OneDrive - KMD Institute\\L4DC Back up Disk D\\L4DC DDOOCP\\NAME_0000000_DDOOCP_GA\\Program\\ServiceBookingSystem_Eg\\FrmCustomersBooking_from_AdminView.cs",
+              "RelativeToolTip": "FrmCustomersBooking_from_AdminView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T16:09:01.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FrmCustomerHomePage.cs",
+              "DocumentMoniker": "C:\\Users\\Thoon Moe Wathan\\OneDrive - KMD Institute\\L4DC Back up Disk D\\L4DC DDOOCP\\NAME_0000000_DDOOCP_GA\\Program\\ServiceBookingSystem_Eg\\FrmCustomerHomePage.cs",
+              "RelativeDocumentMoniker": "FrmCustomerHomePage.cs",
+              "ToolTip": "C:\\Users\\Thoon Moe Wathan\\OneDrive - KMD Institute\\L4DC Back up Disk D\\L4DC DDOOCP\\NAME_0000000_DDOOCP_GA\\Program\\ServiceBookingSystem_Eg\\FrmCustomerHomePage.cs",
+              "RelativeToolTip": "FrmCustomerHomePage.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAIBJwFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T16:09:01.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FrmCustomer.cs",
+              "DocumentMoniker": "C:\\Users\\Thoon Moe Wathan\\OneDrive - KMD Institute\\L4DC Back up Disk D\\L4DC DDOOCP\\NAME_0000000_DDOOCP_GA\\Program\\ServiceBookingSystem_Eg\\FrmCustomer.cs",
+              "RelativeDocumentMoniker": "FrmCustomer.cs",
+              "ToolTip": "C:\\Users\\Thoon Moe Wathan\\OneDrive - KMD Institute\\L4DC Back up Disk D\\L4DC DDOOCP\\NAME_0000000_DDOOCP_GA\\Program\\ServiceBookingSystem_Eg\\FrmCustomer.cs",
+              "RelativeToolTip": "FrmCustomer.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAwwH0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T16:09:01.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FrmAdminLogin.cs",
+              "DocumentMoniker": "C:\\Users\\Thoon Moe Wathan\\OneDrive - KMD Institute\\L4DC Back up Disk D\\L4DC DDOOCP\\NAME_0000000_DDOOCP_GA\\Program\\ServiceBookingSystem_Eg\\FrmAdminLogin.cs",
+              "RelativeDocumentMoniker": "FrmAdminLogin.cs",
+              "ToolTip": "C:\\Users\\Thoon Moe Wathan\\OneDrive - KMD Institute\\L4DC Back up Disk D\\L4DC DDOOCP\\NAME_0000000_DDOOCP_GA\\Program\\ServiceBookingSystem_Eg\\FrmAdminLogin.cs",
+              "RelativeToolTip": "FrmAdminLogin.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwDMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T16:09:01.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FrmAdminHomePage.cs",
+              "DocumentMoniker": "C:\\Users\\Thoon Moe Wathan\\OneDrive - KMD Institute\\L4DC Back up Disk D\\L4DC DDOOCP\\NAME_0000000_DDOOCP_GA\\Program\\ServiceBookingSystem_Eg\\FrmAdminHomePage.cs",
+              "RelativeDocumentMoniker": "FrmAdminHomePage.cs",
+              "ToolTip": "C:\\Users\\Thoon Moe Wathan\\OneDrive - KMD Institute\\L4DC Back up Disk D\\L4DC DDOOCP\\NAME_0000000_DDOOCP_GA\\Program\\ServiceBookingSystem_Eg\\FrmAdminHomePage.cs",
+              "RelativeToolTip": "FrmAdminHomePage.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwDsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T16:09:01.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "clsAdmin.cs",
+              "DocumentMoniker": "C:\\Users\\Thoon Moe Wathan\\OneDrive - KMD Institute\\L4DC Back up Disk D\\L4DC DDOOCP\\NAME_0000000_DDOOCP_GA\\Program\\ServiceBookingSystem_Eg\\clsAdmin.cs",
+              "RelativeDocumentMoniker": "clsAdmin.cs",
+              "ToolTip": "C:\\Users\\Thoon Moe Wathan\\OneDrive - KMD Institute\\L4DC Back up Disk D\\L4DC DDOOCP\\NAME_0000000_DDOOCP_GA\\Program\\ServiceBookingSystem_Eg\\clsAdmin.cs",
+              "RelativeToolTip": "clsAdmin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T16:09:01.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "clsServiceType.cs",
+              "DocumentMoniker": "C:\\Users\\Thoon Moe Wathan\\OneDrive - KMD Institute\\L4DC Back up Disk D\\L4DC DDOOCP\\NAME_0000000_DDOOCP_GA\\Program\\ServiceBookingSystem_Eg\\clsServiceType.cs",
+              "RelativeDocumentMoniker": "clsServiceType.cs",
+              "ToolTip": "C:\\Users\\Thoon Moe Wathan\\OneDrive - KMD Institute\\L4DC Back up Disk D\\L4DC DDOOCP\\NAME_0000000_DDOOCP_GA\\Program\\ServiceBookingSystem_Eg\\clsServiceType.cs",
+              "RelativeToolTip": "clsServiceType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T16:09:01.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "clsService.cs",
+              "DocumentMoniker": "C:\\Users\\Thoon Moe Wathan\\OneDrive - KMD Institute\\L4DC Back up Disk D\\L4DC DDOOCP\\NAME_0000000_DDOOCP_GA\\Program\\ServiceBookingSystem_Eg\\clsService.cs",
+              "RelativeDocumentMoniker": "clsService.cs",
+              "ToolTip": "C:\\Users\\Thoon Moe Wathan\\OneDrive - KMD Institute\\L4DC Back up Disk D\\L4DC DDOOCP\\NAME_0000000_DDOOCP_GA\\Program\\ServiceBookingSystem_Eg\\clsService.cs",
+              "RelativeToolTip": "clsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T16:09:01.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "clsCustomer.cs",
+              "DocumentMoniker": "C:\\Users\\Thoon Moe Wathan\\OneDrive - KMD Institute\\L4DC Back up Disk D\\L4DC DDOOCP\\NAME_0000000_DDOOCP_GA\\Program\\ServiceBookingSystem_Eg\\clsCustomer.cs",
+              "RelativeDocumentMoniker": "clsCustomer.cs",
+              "ToolTip": "C:\\Users\\Thoon Moe Wathan\\OneDrive - KMD Institute\\L4DC Back up Disk D\\L4DC DDOOCP\\NAME_0000000_DDOOCP_GA\\Program\\ServiceBookingSystem_Eg\\clsCustomer.cs",
+              "RelativeToolTip": "clsCustomer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T16:09:01.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FrmCustomerLogin.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Thoon Moe Wathan\\OneDrive - KMD Institute\\L4DC Back up Disk D\\L4DC DDOOCP\\NAME_0000000_DDOOCP_GA\\Program\\ServiceBookingSystem_Eg\\FrmCustomerLogin.Designer.cs",
+              "RelativeDocumentMoniker": "FrmCustomerLogin.Designer.cs",
+              "ToolTip": "C:\\Users\\Thoon Moe Wathan\\OneDrive - KMD Institute\\L4DC Back up Disk D\\L4DC DDOOCP\\NAME_0000000_DDOOCP_GA\\Program\\ServiceBookingSystem_Eg\\FrmCustomerLogin.Designer.cs",
+              "RelativeToolTip": "FrmCustomerLogin.Designer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAADgvxYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T16:09:01.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FrmCustomerLogin.cs",
+              "DocumentMoniker": "C:\\Users\\Thoon Moe Wathan\\OneDrive - KMD Institute\\L4DC Back up Disk D\\L4DC DDOOCP\\NAME_0000000_DDOOCP_GA\\Program\\ServiceBookingSystem_Eg\\FrmCustomerLogin.cs",
+              "RelativeDocumentMoniker": "FrmCustomerLogin.cs",
+              "ToolTip": "C:\\Users\\Thoon Moe Wathan\\OneDrive - KMD Institute\\L4DC Back up Disk D\\L4DC DDOOCP\\NAME_0000000_DDOOCP_GA\\Program\\ServiceBookingSystem_Eg\\FrmCustomerLogin.cs",
+              "RelativeToolTip": "FrmCustomerLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T16:09:01.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FrmCustomersBooking_from_AdminView.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Thoon Moe Wathan\\OneDrive - KMD Institute\\L4DC Back up Disk D\\L4DC DDOOCP\\NAME_0000000_DDOOCP_GA\\Program\\ServiceBookingSystem_Eg\\FrmCustomersBooking_from_AdminView.Designer.cs",
+              "RelativeDocumentMoniker": "FrmCustomersBooking_from_AdminView.Designer.cs",
+              "ToolTip": "C:\\Users\\Thoon Moe Wathan\\OneDrive - KMD Institute\\L4DC Back up Disk D\\L4DC DDOOCP\\NAME_0000000_DDOOCP_GA\\Program\\ServiceBookingSystem_Eg\\FrmCustomersBooking_from_AdminView.Designer.cs",
+              "RelativeToolTip": "FrmCustomersBooking_from_AdminView.Designer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAADgvxYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T16:09:01.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FrmCusViewBooking.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Thoon Moe Wathan\\OneDrive - KMD Institute\\L4DC Back up Disk D\\L4DC DDOOCP\\NAME_0000000_DDOOCP_GA\\Program\\ServiceBookingSystem_Eg\\FrmCusViewBooking.cs",
+              "RelativeDocumentMoniker": "FrmCusViewBooking.cs",
+              "ToolTip": "C:\\Users\\Thoon Moe Wathan\\OneDrive - KMD Institute\\L4DC Back up Disk D\\L4DC DDOOCP\\NAME_0000000_DDOOCP_GA\\Program\\ServiceBookingSystem_Eg\\FrmCusViewBooking.cs [Design]",
+              "RelativeToolTip": "FrmCusViewBooking.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T16:09:01.086Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FrmBooking.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Thoon Moe Wathan\\OneDrive - KMD Institute\\L4DC Back up Disk D\\L4DC DDOOCP\\NAME_0000000_DDOOCP_GA\\Program\\ServiceBookingSystem_Eg\\FrmBooking.cs",
+              "RelativeDocumentMoniker": "FrmBooking.cs",
+              "ToolTip": "C:\\Users\\Thoon Moe Wathan\\OneDrive - KMD Institute\\L4DC Back up Disk D\\L4DC DDOOCP\\NAME_0000000_DDOOCP_GA\\Program\\ServiceBookingSystem_Eg\\FrmBooking.cs [Design]",
+              "RelativeToolTip": "FrmBooking.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T16:09:01.129Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "FrmAdmin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Thoon Moe Wathan\\OneDrive - KMD Institute\\L4DC Back up Disk D\\L4DC DDOOCP\\NAME_0000000_DDOOCP_GA\\Program\\ServiceBookingSystem_Eg\\FrmAdmin.cs",
+              "RelativeDocumentMoniker": "FrmAdmin.cs",
+              "ToolTip": "C:\\Users\\Thoon Moe Wathan\\OneDrive - KMD Institute\\L4DC Back up Disk D\\L4DC DDOOCP\\NAME_0000000_DDOOCP_GA\\Program\\ServiceBookingSystem_Eg\\FrmAdmin.cs [Design]",
+              "RelativeToolTip": "FrmAdmin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T16:09:01.131Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "FrmServiceType.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Thoon Moe Wathan\\OneDrive - KMD Institute\\L4DC Back up Disk D\\L4DC DDOOCP\\NAME_0000000_DDOOCP_GA\\Program\\ServiceBookingSystem_Eg\\FrmServiceType.cs",
+              "RelativeDocumentMoniker": "FrmServiceType.cs",
+              "ToolTip": "C:\\Users\\Thoon Moe Wathan\\OneDrive - KMD Institute\\L4DC Back up Disk D\\L4DC DDOOCP\\NAME_0000000_DDOOCP_GA\\Program\\ServiceBookingSystem_Eg\\FrmServiceType.cs [Design]",
+              "RelativeToolTip": "FrmServiceType.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T16:09:01.411Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "FrmCustomerHomePage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Thoon Moe Wathan\\OneDrive - KMD Institute\\L4DC Back up Disk D\\L4DC DDOOCP\\NAME_0000000_DDOOCP_GA\\Program\\ServiceBookingSystem_Eg\\FrmCustomerHomePage.cs",
+              "RelativeDocumentMoniker": "FrmCustomerHomePage.cs",
+              "ToolTip": "C:\\Users\\Thoon Moe Wathan\\OneDrive - KMD Institute\\L4DC Back up Disk D\\L4DC DDOOCP\\NAME_0000000_DDOOCP_GA\\Program\\ServiceBookingSystem_Eg\\FrmCustomerHomePage.cs [Design]",
+              "RelativeToolTip": "FrmCustomerHomePage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T16:09:01.414Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "FrmCustomersBooking_from_AdminView.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Thoon Moe Wathan\\OneDrive - KMD Institute\\L4DC Back up Disk D\\L4DC DDOOCP\\NAME_0000000_DDOOCP_GA\\Program\\ServiceBookingSystem_Eg\\FrmCustomersBooking_from_AdminView.cs",
+              "RelativeDocumentMoniker": "FrmCustomersBooking_from_AdminView.cs",
+              "ToolTip": "C:\\Users\\Thoon Moe Wathan\\OneDrive - KMD Institute\\L4DC Back up Disk D\\L4DC DDOOCP\\NAME_0000000_DDOOCP_GA\\Program\\ServiceBookingSystem_Eg\\FrmCustomersBooking_from_AdminView.cs [Design]",
+              "RelativeToolTip": "FrmCustomersBooking_from_AdminView.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T16:09:01.426Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "FrmAdminHomePage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Thoon Moe Wathan\\OneDrive - KMD Institute\\L4DC Back up Disk D\\L4DC DDOOCP\\NAME_0000000_DDOOCP_GA\\Program\\ServiceBookingSystem_Eg\\FrmAdminHomePage.cs",
+              "RelativeDocumentMoniker": "FrmAdminHomePage.cs",
+              "ToolTip": "C:\\Users\\Thoon Moe Wathan\\OneDrive - KMD Institute\\L4DC Back up Disk D\\L4DC DDOOCP\\NAME_0000000_DDOOCP_GA\\Program\\ServiceBookingSystem_Eg\\FrmAdminHomePage.cs [Design]",
+              "RelativeToolTip": "FrmAdminHomePage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T16:09:01.426Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "FrmCustomer.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Thoon Moe Wathan\\OneDrive - KMD Institute\\L4DC Back up Disk D\\L4DC DDOOCP\\NAME_0000000_DDOOCP_GA\\Program\\ServiceBookingSystem_Eg\\FrmCustomer.cs",
+              "RelativeDocumentMoniker": "FrmCustomer.cs",
+              "ToolTip": "C:\\Users\\Thoon Moe Wathan\\OneDrive - KMD Institute\\L4DC Back up Disk D\\L4DC DDOOCP\\NAME_0000000_DDOOCP_GA\\Program\\ServiceBookingSystem_Eg\\FrmCustomer.cs [Design]",
+              "RelativeToolTip": "FrmCustomer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T16:09:01.44Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "FrmAdminLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Thoon Moe Wathan\\OneDrive - KMD Institute\\L4DC Back up Disk D\\L4DC DDOOCP\\NAME_0000000_DDOOCP_GA\\Program\\ServiceBookingSystem_Eg\\FrmAdminLogin.cs",
+              "RelativeDocumentMoniker": "FrmAdminLogin.cs",
+              "ToolTip": "C:\\Users\\Thoon Moe Wathan\\OneDrive - KMD Institute\\L4DC Back up Disk D\\L4DC DDOOCP\\NAME_0000000_DDOOCP_GA\\Program\\ServiceBookingSystem_Eg\\FrmAdminLogin.cs [Design]",
+              "RelativeToolTip": "FrmAdminLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T16:09:01.453Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "FrmCustomerProfile.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Thoon Moe Wathan\\OneDrive - KMD Institute\\L4DC Back up Disk D\\L4DC DDOOCP\\NAME_0000000_DDOOCP_GA\\Program\\ServiceBookingSystem_Eg\\FrmCustomerProfile.cs",
+              "RelativeDocumentMoniker": "FrmCustomerProfile.cs",
+              "ToolTip": "C:\\Users\\Thoon Moe Wathan\\OneDrive - KMD Institute\\L4DC Back up Disk D\\L4DC DDOOCP\\NAME_0000000_DDOOCP_GA\\Program\\ServiceBookingSystem_Eg\\FrmCustomerProfile.cs [Design]",
+              "RelativeToolTip": "FrmCustomerProfile.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T16:09:01.463Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "FrmCustomerLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Thoon Moe Wathan\\OneDrive - KMD Institute\\L4DC Back up Disk D\\L4DC DDOOCP\\NAME_0000000_DDOOCP_GA\\Program\\ServiceBookingSystem_Eg\\FrmCustomerLogin.cs",
+              "RelativeDocumentMoniker": "FrmCustomerLogin.cs",
+              "ToolTip": "C:\\Users\\Thoon Moe Wathan\\OneDrive - KMD Institute\\L4DC Back up Disk D\\L4DC DDOOCP\\NAME_0000000_DDOOCP_GA\\Program\\ServiceBookingSystem_Eg\\FrmCustomerLogin.cs [Design]",
+              "RelativeToolTip": "FrmCustomerLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T16:09:01.466Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
