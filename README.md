@@ -1,6 +1,17 @@
-//SQL QUERY
-//db name="service_db"
+# Polaris' End Cafe C# Project
 
+
+## How to run
+
+Be sure to connect with database before running the app
+
+```bash
+Database Name = "service_db"
+```
+
+## SQL Query
+
+```sql
 Create Table CustomerInfo
 (
        CustomerID varchar(10) not null primary key,
@@ -86,3 +97,5 @@ drop table BookingDetail
 drop table Review
 
 insert into AdminInfo values('A_001','Thoon Moe Wathan','TMW','tmw','tmw@gmail.com','08-36254265','Yangon')
+```
+
